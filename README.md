@@ -8,7 +8,7 @@
 
 임상 현장에서 환자의 데이터를 다루며 얻은 꼼꼼함과 책임감을 바탕으로, 현재는 **인공지능학과**에서 데이터 분석 및 딥러닝 모델링 역량을 키우고 있습니다. 단순한 코딩을 넘어, 데이터 뒤에 숨겨진 맥락(Context)을 이해하고 실질적인 가치를 창출하는 개발자가 되는 것이 목표입니다.
 
-* **Background:** 간호사 근무 (OO년), 의료 도메인 이해도 보유
+* **Background:** 간호사 근무 (15년), 의료 도메인 이해도 보유
 * **Focus:** Computer Vision(Image Processing), Quant Trading, Data Modeling
 * **Contact:** kimjinwoo7817@gmail.com
 
