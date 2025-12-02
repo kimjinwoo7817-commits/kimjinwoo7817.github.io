@@ -1,5 +1,5 @@
-# 🧑‍💻 [영문이름 또는 닉네임]'s Portfolio
-> **"임상의 경험을 데이터의 확신으로, 융합형 AI 엔지니어 [이름]입니다."**
+# 🧑‍💻 KIM JINWOO's Portfolio
+> **"임상의 경험을 데이터의 확신으로, 융합형 AI 엔지니어 김진우입니다."**
 
 <br>
 
@@ -10,7 +10,7 @@
 
 * **Background:** 간호사 근무 (OO년), 의료 도메인 이해도 보유
 * **Focus:** Computer Vision(Image Processing), Quant Trading, Data Modeling
-* **Contact:** [본인 이메일 주소]
+* **Contact:** kimjinwoo7817@gmail.com
 
 <br>
 
@@ -29,7 +29,7 @@
 ## 🚀 Projects
 
 ### 1. 생성형 AI 기반 이미지 복원 및 스타일 변환
-**기간:** 20XX.XX ~ 20XX.XX (개인 프로젝트)
+
 <br>
 
 > **프로젝트 개요**
@@ -50,7 +50,7 @@
 ---
 
 ### 2. 거시경제 지표 기반 자동 매매 프로그램 (Auto Trader)
-**기간:** 20XX.XX ~ 20XX.XX (개인 프로젝트)
+
 <br>
 
 > **프로젝트 개요**
@@ -71,7 +71,7 @@
 ---
 
 ### 3. 병원 환자 관리 시스템 데이터 모델링 (SQLD 학습)
-**기간:** 20XX.XX ~ 20XX.XX (수업 과제)
+
 <br>
 
 > **프로젝트 개요**
@@ -87,17 +87,11 @@
 
 <br>
 
-## 🎓 Education & Experience
-* **202X.03 ~ 현재 | OO대학교**
-    * 인공지능학과 재학 (GPA: O.O / 4.5)
-    * 주요 수강: 기계학습, 딥러닝개론, 컴퓨터비전, 데이터베이스
-* **20XX.XX ~ 20XX.XX | OO병원**
-    * 간호사 근무 (일반 병동 및 ICU)
-    * 환자 활력 징후 데이터 모니터링 및 임상 기록 관리
+
 
 <br>
 
 <div align="center">
-  Last Updated: 2025. XX. XX <br>
-  Designed by [본인아이디]
+  Last Updated: 2025. 12. 03 <br>
+  Designed by kimjinwoo7817
 </div>
