@@ -1,16 +1,16 @@
-# 🧑‍💻 KIM JINWOO's Portfolio
-> **"임상의 경험을 데이터의 확신으로, 융합형 AI 엔지니어 김진우입니다."**
+# 🧑‍💻 KIM OOOOOO's Portfolio
+> **"임상의 경험을 데이터의 확신으로, 융합형 AI 엔지니어 김OO입니다."**
 
 <br>
 
 ## 🙋‍♂️ Intro
-안녕하세요. **간호사 출신의 도메인 지식과 인공지능 기술을 결합**하여 헬스케어와 금융 분야의 비효율을 해결하고자 하는 [이름]입니다.
+안녕하세요. **간호사 출신의 도메인 지식과 인공지능 기술을 결합**하여 헬스케어와 금융 분야의 비효율을 해결하고자 하는 김OO입니다.
 
 임상 현장에서 환자의 데이터를 다루며 얻은 꼼꼼함과 책임감을 바탕으로, 현재는 **인공지능학과**에서 데이터 분석 및 딥러닝 모델링 역량을 키우고 있습니다. 단순한 코딩을 넘어, 데이터 뒤에 숨겨진 맥락(Context)을 이해하고 실질적인 가치를 창출하는 개발자가 되는 것이 목표입니다.
 
 * **Background:** 간호사 근무 (15년), 의료 도메인 이해도 보유
 * **Focus:** Computer Vision(Image Processing), Quant Trading, Data Modeling
-* **Contact:** kimjinwoo7817@gmail.com
+* **Contact:** kimOOOOOOOOOO@gmail.com
 
 <br>
 
@@ -93,6 +93,6 @@
 
 <div align="center">
   Last Updated: 2025. 12. 03 <br>
-  Designed by kimjinwoo7817
+  Designed by kimOOOOOO
 </div>
 
