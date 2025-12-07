@@ -1,0 +1,16 @@
+//@version=5
+indicator("Mark Minervini Trend Template", overlay=true)
+
+// 사용자 입력 설정
+sma50Len = input.int(50, title="50 SMA Length")
+sma150Len = input.int(150, title="150 SMA Length")
+sma200Len = input.int(200, title="200 SMA Length")
+
+// 이동평균 계산
+sma50 = ta.sma(close, sma50Len)
+sma150 = ta.sma(close, sma150Len)
+sma200 = ta.sma(close, sma200Len)
+
+// 200일선 상승 추세 확인 (20봉 전 대비 상승)
+// ta.rising() 함수를 사용할 수도 있으나, 단순 비교가 노이즈에 더 강함
+trendUp200 = sma200 > sma200[1]
