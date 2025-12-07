@@ -1,0 +1,22 @@
+// 52주(252봉) 최고가/최저가 계산
+high52 = ta.highest(high, 252)
+low52 = ta.lowest(low, 252)
+
+// 트렌드 템플릿 조건 정의
+c1 = close > sma150 and close > sma200
+c2 = sma150 > sma200
+c3 = trendUp200
+c4 = sma50 > sma150 and sma50 > sma200
+c5 = close > sma50
+c6 = close >= low52 * 1.30 // 저가 대비 30% 이상
+c7 = close >= high52 * 0.75 // 고가 대비 25% 이내 (즉 75% 수준 이상)
+
+// 모든 조건 충족 시 변수
+isMinerviniSetup = c1 and c2 and c3 and c4 and c5 and c6 and c7
+
+// 시각화: 조건 충족 시 배경을 녹색으로 변경
+bgcolor(isMinerviniSetup? color.new(color.green, 90) : na)
+
+// 스크리너 테이블 패널 (선택사항)
+var table dashboard = table.new(position.top_right, 2, 8)
+//... 테이블 채우기 로직...
